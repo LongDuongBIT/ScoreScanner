@@ -1,0 +1,19 @@
+{
+  "name": "scorescanner",
+  "version": "1.0.0",
+  "description": "Score scanner for UEH-ers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LongDuongBIT/ScoreScanner.git"
+  },
+  "author": "LongDuongBIT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LongDuongBIT/ScoreScanner/issues"
+  },
+  "homepage": "https://github.com/LongDuongBIT/ScoreScanner#readme"
+}
